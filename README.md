@@ -12,3 +12,4 @@ The description and requirements of **hw3-calculator-layout** are:
 My solution of **hw3-calculator-layout** has been deployed using GitHub Pages and can be found [here](https://georgiosioannoucoder.github.io/hw3-calculator-layout/).
 
 ## Demo
+https://github.com/GeorgiosIoannouCoder/hw3-calculator-layout/assets/110848236/6865c0f4-d508-4302-8061-b3fe18ad8bed
